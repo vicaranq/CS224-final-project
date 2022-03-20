@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://raw.githubusercontent.com/aritter/twitter_nlp/master/data/annotated/wnut16/data/test

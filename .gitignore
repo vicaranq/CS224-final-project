@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+**/*Zone.Identifier
+data/sentiment/sentiment140/

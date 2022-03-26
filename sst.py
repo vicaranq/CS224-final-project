@@ -145,7 +145,7 @@ def build_dataset(dataframes, phi, vectorizer=None, vectorize=True):
 
     feat_dicts = list(df.text.apply(phi).values)
 
-    if 'label' in df.columns:
+    if 'sentiment' in df.columns:
         labels = list(df.sentiment.values)
     else:
         labels = None

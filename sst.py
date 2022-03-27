@@ -317,6 +317,129 @@ def experiment(
         'assess_datasets': assess_datasets,
         'predictions': predictions,
         'metric': score_func.__name__,
+        'scores': scores
+    }
+
+def evaluate(
+        model,
+        phi,
+        assess_dataframes=None,
+        vectorizer=None,
+        score_func=utils.safe_macro_f1,
+        vectorize=False,
+        verbose=True,
+        random_state=None):
+    """
+    Generic experimental framework. Either assesses with a random
+    train/test split of `train_reader` or with `assess_reader` if
+    it is given.
+
+    Parameters
+    ----------
+    model : trained model
+
+    phi : feature function
+        Any function that takes an `nltk.Tree` instance as input
+        and returns a bool/int/float-valued dict as output.
+
+    assess_dataframes : pd.DataFrame, list of pd.DataFrame or None
+        If None, then the df from `train_dataframes` is split into
+        a random train/test split, with the the train percentage
+        determined by `train_size`. If not None, then this should
+        be a dataset or datasets to process, as read in by
+        `sentiment_reader`. Each such dataset will be read and
+        used in a separate evaluation.
+        
+    vectorizer : DictVectorizer
+        vectorizer : sklearn.feature_extraction.DictVectorizer
+        Used to turn the list of dicts created by `phi` into a
+        feature matrix. This is created during training.
+        This happens in assessment, when we take in new instances and need to
+        featurize them as we did in training.
+
+    train_size : float (default: 0.7)
+        If `assess_reader` is None, then this is the percentage of
+        `train_reader` devoted to training. If `assess_reader` is
+        not None, then this value is ignored.
+
+    score_metric : function name (default: `utils.safe_macro_f1`)
+        This should be an `sklearn.metrics` scoring function. The
+        default is weighted average F1 (macro-averaged F1). For
+        comparison with the SST literature, `accuracy_score` might
+        be used instead. For other metrics that can be used here,
+        see http://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
+    
+    vectorize : bool
+        Whether to use a DictVectorizer. Set this to False for
+        deep learning models that process their own input.
+
+    verbose : bool (default: True)
+        Whether to print out the model assessment to standard output.
+        Set to False for statistical testing via repeated runs.
+
+    random_state : int or None
+        Optionally set the random seed for consistent sampling
+        where random train/test splits are being created.
+
+    Prints
+    -------
+    To standard output, if `verbose=True`
+        Model precision/recall/F1 report. Accuracy is micro-F1 and is
+        reported because many SST papers report that figure, but macro
+        precision/recall/F1 is better given the class imbalances and the
+        fact that performance across the classes can be highly variable.
+
+    Returns
+    -------
+    dict with keys
+        'model': trained model
+        'phi': the function used for featurization
+        'assess_datasets': list of datasets as returned by `build_dataset`
+        'predictions': list of lists of predictions on the assessment datasets
+        'metric': `score_func.__name__`
+        'score': the `score_func` score on each of the assessment datasets
+
+    """
+    assess_datasets = []
+    if not isinstance(assess_dataframes, (tuple, list)):
+        assess_dataframes = [assess_dataframes]
+    for assess_df in assess_dataframes:
+        # Assessment dataset using the training vectorizer:
+        assess = build_dataset(
+            assess_df,
+            phi,
+            vectorizer=vectorizer,
+            vectorize=vectorize)
+        assess_datasets.append(assess)
+
+    # Predictions if we have labels:
+    predictions = []
+    scores = []
+    for dataset_num, assess in enumerate(assess_datasets, start=1):
+        preds = model.predict(assess['X'])
+        if assess['y'] is None:
+            predictions.append(None)
+            scores.append(None)
+        else:
+            if verbose:
+                if len(assess_datasets) > 1:
+                    print("Assessment dataset {}".format(dataset_num))
+                print(classification_report(assess['y'], preds, digits=3))
+            predictions.append(preds)
+            scores.append(score_func(assess['y'], preds))
+    true_scores = [s for s in scores if s is not None]
+    if len(true_scores) > 1 and verbose:
+        mean_score = np.mean(true_scores)
+        print("Mean of macro-F1 scores: {0:.03f}".format(mean_score))
+
+
+    # Return the overall scores and other experimental info:
+    return {
+        'model': model,
+        'phi': phi,
+        'assess_datasets': assess_datasets,
+        'predictions': predictions,
+        'metric': score_func.__name__,
         'scores': scores}
 
 

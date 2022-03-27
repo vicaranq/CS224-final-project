@@ -239,7 +239,7 @@ def get_vocab(X, n_words=None, mincount=1):
     list of str
 
     """
-    wc = Counter([w for ex in X for w in ex])
+    wc = Counter([str(w) for ex in X for w in ex])
     wc = wc.most_common(n_words) if n_words else wc.items()
     if mincount > 1:
         wc = {(w, c) for w, c in wc if c >= mincount}

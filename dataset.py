@@ -70,6 +70,10 @@ def dataset_reader(dataset_number):
         test = df.drop(train.index)
         validate = pd.read_csv(validate_p)
         
+        train['dataset'] = np.repeat('twitter_sentiment', len(train))
+        test['dataset'] = np.repeat('twitter_sentiment', len(test))
+        validate['dataset'] = np.repeat('twitter_sentiment', len(validate))
+        
     if dataset_number == TWITTER_AIRLINES:
         # Twitter Sentiment Analysis on Airlines
         train_p = os.path.join(SENTIMENT_PATH, "twitter-us-airline-sentiment", "Tweets.csv")
@@ -100,15 +104,19 @@ def prune_columns(ds_num, df):
     """
     if ds_num == TWITTER:
         df = df.rename(columns={'topic_id':'entity'})
-        return df[['text','sentiment','entity']]
+        df['tweet_id'] = range(1, len(df) + 1)
+        df['dataset'] = np.repeat('twitter_sentiment', len(df))
+        return df[['dataset','tweet_id','text','sentiment','entity']]
     
     if ds_num == TWITTER_AIRLINES: 
         df = df.rename(columns={'airline_sentiment':'sentiment'})
-        return df[['tweet_id','text','sentiment','airline']]
+        df['dataset'] = np.repeat('twitter_airline', len(df))
+        return df[['dataset','tweet_id','text','sentiment','airline']]
     
     if ds_num == TWITTER_APPLE:
         df = df.rename(columns={'unit_id':'tweet_id'})
-        return df[['tweet_id','text','sentiment']]
+        df['dataset'] = np.repeat('twitter_apple', len(df))
+        return df[['dataset','tweet_id','text','sentiment']]
 
     
 def fit_softmax_classifier(X, y):

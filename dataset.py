@@ -14,6 +14,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, classification_report
 from collections import defaultdict
 from textwrap import wrap
+from transformers import AutoModel, AutoTokenizer 
+
 # from torch import nn, optim
 # from torch.utils.data import Dataset, DataLoader
 
@@ -21,6 +23,7 @@ from textwrap import wrap
 # HAPPY_COLORS_PALETTE = ["#01BEFE", "#FFDD00", "#FF7D00", "#FF006D", "#ADFF02", "#8F00FF"]
 # sns.set_palette(sns.color_palette(HAPPY_COLORS_PALETTE))
 # rcParams['figure.figsize'] = 12, 8
+
 RANDOM_SEED = 42
 
 
@@ -35,10 +38,19 @@ TWEEBANK = 7
 SENTIMENT_PATH = os.path.join('data', 'sentiment')
 NER_PATH = os.path.join('data', 'ner')
 
+######## BERT #############
+
 bert_weights_name = 'bert-base-cased'
 bert_tokenizer = BertTokenizer.from_pretrained(bert_weights_name)
 bert_model = BertModel.from_pretrained(bert_weights_name)
 # model = BertForSequenceClassification.from_pretrained(bert_weights_name)
+
+######## BERTweet #############
+
+bertweet_L_tokenizer = AutoTokenizer.from_pretrained("vinai/bertweet-large")
+bertweet_L_model = AutoModel.from_pretrained("vinai/bertweet-large")
+
+
 
 def dataset_reader(dataset_number):
     """
@@ -149,3 +161,24 @@ def hf_cls_phi(text):
     # name:
     return cls_rep.cpu().numpy()
 # def Dataset(Dataset)
+
+def bert_tweet_phi(text):
+    # Get the ids. `vsm.hf_encode` will help; be sure to
+    # set `add_special_tokens=True`.
+    ##### YOUR CODE HERE
+    subtok_ids = vsm.hf_encode(text, bertweet_L_tokenizer, add_special_tokens=True)
+
+    # Get the BERT representations. `vsm.hf_represent` will help:
+    ##### YOUR CODE HERE
+    subtok_reps = vsm.hf_represent(subtok_ids, bertweet_L_model, layer=-1)
+
+    # Index into `reps` to get the representation above [CLS].
+    # The shape of `reps` should be (1, n, 768), where n is the
+    # number of tokens. You need the 0th element of the 2nd dim:
+    ##### YOUR CODE HERE
+    cls_rep = subtok_reps[0][:][0]
+
+    # These conversions should ensure that you can work with the
+    # representations flexibly. Feel free to change the variable
+    # name:
+    return cls_rep.cpu().numpy()

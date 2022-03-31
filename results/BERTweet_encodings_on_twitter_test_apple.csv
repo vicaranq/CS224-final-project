@@ -1,0 +1,887 @@
+,X,y,vectorizer,raw_examples
+0,"[-0.2714139  -0.30336383 -0.11673585 ...  0.21868755  0.05107062
+  0.45747364]",3,,"The Best-Designed #iPhone #Apps In the World, According to @apple: http://t.co/Razqvpxofg http://t.co/ev7uKWiEcz"
+1,"[-0.1989284  -0.09017599  0.13348901 ...  0.45482236 -0.24785846
+  0.12534846]",3,,#aapl @applenws Thanks to the non factual dumb Twitter followers stock drops 3 points in one minute. Thanks dummies. #rumors
+2,"[-0.3943628  -0.34012744 -0.05967045 ...  0.23022392 -0.01948185
+  0.33459175]",3,,RT @thehill: Justice Department cites 18th century federal law to get @Apple to unlock iPhones: http://t.co/Eth0QpAIom
+3,"[-0.3943628  -0.34012744 -0.05967045 ...  0.23022392 -0.01948185
+  0.33459175]",1,,RT @thehill: Justice Department cites 18th century federal law to get @Apple to unlock iPhones: http://t.co/Eth0QpAIom
+4,"[-0.3943628  -0.34012744 -0.05967045 ...  0.23022392 -0.01948185
+  0.33459175]",3,,RT @thehill: Justice Department cites 18th century federal law to get @Apple to unlock iPhones: http://t.co/Eth0QpAIom
+5,"[-0.05976456  0.04200391  0.00091455 ...  0.00858517  0.11061391
+  0.10797069]",1,,@thehill @Apple I cite the us constitution where judges cannot pass laws! Violation of the separation of powers
+6,"[-0.3943628  -0.34012744 -0.05967045 ...  0.23022392 -0.01948185
+  0.33459175]",3,,RT @thehill: Justice Department cites 18th century federal law to get @Apple to unlock iPhones: http://t.co/Eth0QpAIom
+7,"[ 0.04471777  0.06925046 -0.04691732 ...  0.06666493  0.04732335
+  0.02354088]",3,,@Quailman_ @Apple u was bored huh
+8,"[-0.02166531  0.05173666 -0.03852024 ...  0.08308527  0.09142995
+ -0.06630637]",3,,@aydlettgwyn13 @apple please educate us
+9,"[-0.36851847 -0.22130351  0.04254286 ...  0.26453993 -0.1518533
+  0.221752  ]",3,,"#iPhone #users face big change over @Apple [#Apple]'s Google search choice. (#Monday, 1 #December) http://t.co/fA3KKjQQdA"
+10,"[-0.00221168 -0.03800847 -0.04931324 ...  0.03471637  0.06098945
+ -0.00155103]",3,,"RT @HamzeiAnalytics: New HA Blog Post &gt;&gt;&gt; Final #AAPL #PutCallRatios for Monday, December 1, 2014:  http://t.co/FO160NRHfF"
+11,"[-0.37424085 -0.31283465  0.08277964 ...  0.23731512 -0.13390999
+  0.13539422]",3,,"Steve Jobs, clave en juicio contra @Apple 
+
+http://t.co/IcEOFgkm1q http://t.co/eDiR5Mahxn"
+12,"[-0.45461503 -0.27560863  0.05500301 ...  0.2508047  -0.06972751
+  0.29969516]",3,,"#Apple (NASDAQ: #AAPL) Participates in World Aids Day Campaign: http://t.co/YytgUGXQNB: #Apple, #AAPL, Campaign... http://t.co/XT3Z1sx0P4"
+13,"[ 0.01011755 -0.03715961 -0.02975391 ...  0.04666158  0.08661098
+  0.04887596]",1,,fuck you for BREAKING MY MUSIC @apple
+14,"[-0.3006776  -0.28092533 -0.06646405 ...  0.13457003  0.00750837
+  0.21453714]",3,,"Have #Apple, Inc.'s #iPad Sales Peaked? #AAPL http://t.co/2Wpaib3z9M"
+15,"[-0.25998425 -0.12582713  0.03877271 ...  0.36423975 -0.22502479
+  0.20806909]",1,,@Apple I had a power cord problem- under warranty. You said it would be fine. It isn't. And now you won't replace it? http://t.co/fW3BoW53dj
+16,"[-0.29709682 -0.27165362 -0.10142506 ...  0.10390754  0.14418997
+  0.15160212]",3,,RT @donacamp: Brass band at @Apple Store Broadway #WintersEve #NYC http://t.co/ufworZjgpP
+17,"[-0.12519938 -0.06525692 -0.18531351 ...  0.06331519  0.10929605
+  0.11440088]",3,,First @Apple logo was designed by co-founder Ronald Wayne. Drawing of Isaac Newton reading a book under an apple tree
+18,"[ 0.01810861  0.03009587 -0.05979677 ...  0.02691616  0.12255601
+  0.04997544]",1,,@apple @Disney Why can't I buy any version let alone the version I actually like of Star Wars on @iTunesMovies #stupid #lame #StarWars
+19,"[ 0.03247814 -0.0133349  -0.12206455 ...  0.08955488  0.06041044
+  0.05907862]",3,,iPad Mini First Time Startup!: http://t.co/vGHN798zzs via @youtube @apple #ipadmini #ipad #macbook #macbookpro #startup #hipster #unbox
+20,"[-0.26770267 -0.06006956  0.02261207 ...  0.38029146 -0.2221977
+  0.09334716]",1,,"None too happy with @Apple Mac OS X (Yosemite), File Vault 2, or Boot Camp right now. Thankful to own a @lenovo."
+21,"[-0.2458621  -0.213459   -0.09054817 ...  0.07621939  0.07033914
+  0.1988376 ]",3,,10 best #SteveJobs #apple #aapl #tech30 http://t.co/FkrkG1iF7g via
+22,"[ 0.01886092  0.02842903 -0.041102   ...  0.03994221  0.10162175
+  0.0398296 ]",1,,Why you dying so fast phone? Fuck you @apple
+23,"[ 0.03301591 -0.0006532  -0.03010666 ...  0.04333067  0.05832307
+  0.06636652]",1,,about to write a huge fuck you to @apple for not letting me make reservations to get my laptop fixed
+24,"[-0.25698236 -0.24659508  0.00703826 ...  0.06618249 -0.01997046
+  0.19936894]",3,,"#AAPL:
+
+    Audio: Auto sales due; Apple lawsuit heads to court...http://t.co/Kvb1L61oLN"
+25,"[-0.0643485  -0.02376469 -0.03404197 ...  0.0096132   0.02258084
+ -0.03104776]",3,,.@Apple heads to trial over digital music claims $APPL #tech
+26,"[-0.33440107 -0.28899878 -0.07965297 ...  0.1580035   0.13507913
+  0.2716825 ]",3,,3 More #AppleWatch Details Exposed #aapl http://t.co/PEvFaMKC8O
+27,"[-0.21230985 -0.16718113 -0.07732061 ...  0.06797654  0.02700729
+  0.1610136 ]",not_relevant,,#AAPL $AAPL daily....wedge... http://t.co/RSkkgmJshZ
+28,[0.02964264 0.03976445 0.02875677 ... 0.0592046  0.05480782 0.02986249],3,,Does @apple store in Georgetown sell refurb'd iPads? Or just new? Are refurbs only available online?
+29,"[-0.05678976  0.04968522 -0.00226621 ...  0.11999431 -0.11247801
+  0.06821258]",3,,Apple Flash Crash: What You Need to Know #AAPL http://t.co/2PBThSFeEE
+30,"[-0.31090263 -0.2930824  -0.0886558  ...  0.20394824  0.05319005
+  0.20237973]",3,,Elgato Launches Thunderbolt 2 Dock with 4K Resolution Support [Mac Blog] http://t.co/Sofxp2HvlB #AAPL
+31,"[-0.23524927 -0.26850218  0.01012362 ...  0.0809034  -0.1072417
+  0.17751588]",3,,"APPLE - Fibonacci Technicals Levels - Intraday  Update - $AAPL #aapl 
+
+http://t.co/72PLry6Yds"
+32,"[-0.19655909  0.0079771   0.19432807 ...  0.2528887  -0.2043878
+  0.1291019 ]",3,,$AAPL #AAPL green right now. Hope it stays.
+33,"[-0.25098306 -0.32737687 -0.07007985 ...  0.17368422  0.01559595
+  0.11466316]",3,,Sprint Offering to Halve Wireless Bills for Customers Switching From AT&amp;T or Verizon [iOS Blog] http://t.co/Chvmx9EHiy #AAPL
+34,"[-0.10260206 -0.07527328 -0.03772468 ... -0.09164748 -0.02749287
+ -0.02773483]",1,,"What happened? RT @Khaleel You pieces of shit @apple! 
+
+God damnit man!"
+35,"[-0.16717245 -0.23443973  0.07079581 ...  0.26923782 -0.08376274
+  0.1815736 ]",3,,"AAPL 'buy' reiterated,  target raised to $135 by Canaccord Genuity $AAPL Brief explanation here:  https://t.co/qS1o6LkvgN #AAPL"
+36,"[-0.2054032  -0.29504532 -0.03745767 ...  0.19840881 -0.06944657
+  0.17102686]",5,,"TheStreet:  #Android Phones to Dominate Through 2018, While #iOS Phone Revenue Will Dazzle #goog #aapl  http://t.co/bsqSkPFF8O"
+37,"[-0.22944085 -0.19728573 -0.06382556 ...  0.14538322 -0.01611291
+  0.16309135]",3,,6 Reasons #Apple Could Have Fallen 6% Yesterday - Forbes #aapl  http://t.co/8v2qhZG65Z
+38,"[-0.24455802 -0.3112424  -0.07309937 ...  0.17621072 -0.05512255
+  0.27270252]",1,,CNBCTV:  #Cramer: Trading #Apple suckers game #aapl http://t.co/cPmnQXDwit
+39,"[ 0.00166456  0.00418167 -0.02057065 ...  0.02475948  0.13761139
+  0.02598636]",1,,RT @SparkingAri: @ohiloveariana damn I wish I could get u an iPhone so we could imessage but I don't have enough money dAMN DAMM DAMN @apple
+40,"[-0.34883574 -0.303388   -0.07769956 ...  0.17449667  0.06672787
+  0.28387398]",1,,"#AAPL:Android Phones to Dominate Through 2018, While iOS Phone Revenue Will ...http://t.co/b9VdeyRXTc"
+41,"[-0.34325036 -0.31901655 -0.04631    ...  0.3131281  -0.2428015
+  0.44540805]",not_relevant,,"Which are the most popular stocks in each state -- besides #AAPL, that is? Find out: http://t.co/h958iiGDZb http://t.co/2ERPELhroC"
+42,"[-0.26986617 -0.13132222  0.11642096 ...  0.21873923 -0.16662148
+  0.10718468]",3,,"RT @ace_kit_uk: Apple MacBook (å£949.86)
+
+http://t.co/f5IHhOnzHM
+
+@office_nerd @apple
+
+#tech http://t.co/dWX2Q7sS6F"
+43,"[-0.3771395  -0.12385243  0.11616818 ...  0.40649593 -0.2353194
+  0.12577422]",3,,"EU: Nice iPhone ya got there. Pity if something were to happen to it.
+
+http://t.co/vpn1gWZi2r @Apple @applenws @iPhone_News"
+44,"[-0.25471798 -0.24127519  0.04477226 ...  0.08298689 -0.11482677
+  0.15446618]",3,,"APPLE - Fibonacci Technicals Levels - Intraday  Update - $AAPL #aapl 
+
+http://t.co/0RzUiWcD9n"
+45,"[ 0.03519489  0.02202025 -0.07449029 ... -0.09454461  0.02556936
+ -0.05445395]",3,,"RT @JPDesloges: APPLE - Fibonacci Technicals Levels - Intraday  Update - $AAPL #aapl 
+
+http://t.co/0RzUiWcD9n"
+46,"[-0.26133713 -0.31041175  0.08253579 ...  0.11803657  0.02229427
+  0.20922036]",3,,RT @ppropp: Our buddies @ArccosGolf are at eye level in the @apple store #startups @ctnext @StamfordiCenter #nice http://t.co/r3j9yZ5G8u
+47,"[-0.2075409  -0.23134755 -0.0118699  ...  0.22452824 -0.05585773
+  0.10543086]",3,,"Morgan Stanley Sells Apple Inc., but AAPL Stock Still a Buy $AAPL #aapl
+
+http://t.co/w6zGbxeEs0"
+48,"[-0.37925726 -0.33434287 -0.0773059  ...  0.18484138  0.0776945
+  0.2247393 ]",3,,#Apple Inc. Short Interest Down Significantly In November http://t.co/6ReutKybS2 #aapl
+49,"[-2.8916115e-01 -2.1485272e-01  2.1248737e-04 ...  1.9923986e-01
+ -3.2647584e-02  1.9575261e-01]",1,,"Russian lawmaker thinks the iPhone is stealing state secrets $AAPL #aapl
+
+http://t.co/ixxTdEtliT"
+50,[0.01400626 0.02271811 0.01994036 ... 0.01772894 0.03002456 0.01837624],5,,@SonyUK see not even have the courtesy to reply as I said should have stayed with @apple much better customer service from them
+51,"[ 0.02223327 -0.0373193  -0.20985547 ...  0.05609258  0.09873772
+  0.07247758]",1,,@TIME: Steve Jobs to testify in @Apple trial from beyond the grave http://t.co/pPab0v8hUn
+52,"[ 0.0551406   0.03444408 -0.00446582 ...  0.152329   -0.01413027
+  0.02242409]",3,,5 Companies Growing Faster Than Apple Inc. http://t.co/QsoC8dir60 #AAPL
+53,"[-0.25454572 -0.1666358   0.14214785 ...  0.40965247 -0.09095828
+  0.20298904]",3,,"Apple Inc. price at close, December 02, 2014, is 114.63. #apple #AAPL"
+54,"[-0.06804486  0.07148073  0.02045065 ... -0.01606009  0.06098774
+  0.09724267]",3,,"3/ Looking at it now, especially with @samsung's declining sales, it looks more like #AAPL just decided it wanted Samsung's piece of the pie"
+55,"[-0.36919305 -0.16034025  0.00314079 ...  0.17012604 -0.14535004
+  0.23694485]",3,,"#VerrÌ_cktes #GerÌ_cht: #iPhone6s zum @Apple [#Apple] Watch. (#Tuesday, 2 #December) http://t.co/PGCaSLAnZa"
+56,"[-0.01874219 -0.01269816 -0.04796759 ...  0.03869044  0.11401241
+ -0.00545762]",1,,I had the Facebook app but my dumbass deleted it and now I can't redownload cause it says I need iOS7 suck my fucking ass @apple
+57,"[-0.30696064 -0.37601626 -0.13695982 ...  0.208004    0.07507981
+  0.3632868 ]",3,,Amazon (AMZN) Ecosystem: The Biggest Threat to #AAPL Stock: amzn Amazon (AMZN) Ecosystem: The Biggest Threat t... http://t.co/A0j0C8TbyW
+58,"[ 0.03786959  0.08616024 -0.02655588 ...  0.04444173  0.06733827
+  0.01683118]",1,,@iirwanks ICK YO @apple Autocorrect RUSE
+59,"[ 0.00380101  0.00895841 -0.01603628 ... -0.01190311  0.08922844
+  0.08917882]",1,,my dad called now my musics arent playing jesus christ @apple problematic
+60,"[ 0.00569969 -0.03050219 -0.02513186 ...  0.05978456  0.11836945
+  0.02618628]",1,,fuck you fuck you so much i hate you @apple
+61,"[ 0.00887005  0.01663111 -0.05008532 ... -0.02731446  0.05754043
+  0.04931053]",1,,Also I've had my iPhone 6 for two days and it's already broken shout out to @apple
+62,"[ 0.02752723 -0.01260934 -0.04091731 ... -0.003839    0.13421758
+  0.06797756]",1,,@apple I am beginning to think your products are crap
+63,"[ 0.02526963 -0.0192708  -0.05068332 ...  0.09977686  0.11109564
+ -0.00652958]",1,,You need to send me my IPhone before I cancel @tmobile @apple
+64,"[-0.00980136  0.16632469 -0.20985565 ...  0.0542045  -0.14693792
+ -0.01713888]",1,,DEAR APPLE THIS IS THE WORSE SERVICE EVER @apple http://t.co/JHPs71DF0W
+65,"[ 0.03487265  0.03875873 -0.01633415 ...  0.02036945  0.04300247
+  0.05284201]",1,,That would be brilliant! It's sad @Apple doesn't allow Mozilla's better engine @OpenSourceAgent #opensource
+66,"[-0.00857589 -0.00564468 -0.10209448 ... -0.00455919  0.0361665
+ -0.01360654]",1,,APPLES EARBUDS ARE SO FUCKING WEAK THEY LITERALLY CANNOT WITHSTAND ANY GOD DAMN DAMAGE I HAVE WASTED SO MUCH MONEY FUCK @Apple
+67,"[-0.15713422 -0.13343851 -0.24484426 ...  0.22189233 -0.10676111
+  0.2778835 ]",1,,"hey @apple can I catch a fucking maverick of a wave on an iPhone?
+
+didn't think so. #SurfsUpSamsung"
+68,"[ 0.01915612  0.04241525 -0.06726424 ...  0.041474    0.04488717
+ -0.0166629 ]",1,,@FaZeNikan @Apple Wrong @ Homie
+69,"[ 0.04182062  0.02951332 -0.10718066 ...  0.03745753  0.05576177
+  0.03583127]",3,,OH MY GOD. DONT PLAY WITH ME. FORREAL. @Apple
+70,"[-0.18635717 -0.12978727 -0.05208059 ...  0.10033976 -0.06784379
+ -0.05775532]",3,,"http://t.co/D2TeKpbQyw
+
+@Apple Default search engine"
+71,"[-0.20203911 -0.20736675 -0.0420236  ...  0.15020193 -0.12585782
+  0.18681881]",1,,"L.A. school district halts iPad contract as FBI seizes documents $AAPL #aapl
+
+http://t.co/BTJokQnriy"
+72,"[-0.3279001  -0.13291556  0.12928319 ...  0.37947208 -0.14759588
+  0.27468175]",3,,"@Apple have patented an #iPhone drop protection mechanism. Is the is end of #crackedscreens?
+
+http://t.co/Tea3fu5wfX http://t.co/v4J11CPyYy"
+73,"[-0.21560128 -0.2680047  -0.06308209 ...  0.12670092  0.09386762
+  0.1553858 ]",1,,#SteveJobs' Emails Show How He Wanted To Smear Competitors As ' #Hackers' #aapl http://t.co/BYJ0ZR62AV
+74,"[-0.01119312 -0.03940687 -0.05482743 ...  0.08897606  0.03967067
+  0.03001026]",3,,"Big Spending by Consumers on Cyber Monday
+
+
+
+#CyberMonday, #PayPal, #Apple, #AAPL, #eBay, #WalMart, #WMT, #Sales,... http://t.co/pB6WltjTzZ"
+75,"[-0.02550925 -0.01486484 -0.08877556 ...  0.06060154  0.0433408
+ -0.03455213]",not_relevant,,"Opinions of 20K doctors on #Fitbit &amp; @Apple's #HealthKit
+
+http://t.co/wkLwORDA0Q
+
+@KarthikPMO @MMA_4U @vr_ias @AMANet @AIMAIndia
+
+#HealthCare"
+76,"[-0.04128376  0.04300502 -0.03954647 ...  0.02756784  0.05710465
+  0.03008366]",3,,@jimcramer Tks for setting the record straight for @apple investors!!!
+77,"[ 0.0281674   0.02761107 -0.04967004 ... -0.00508911  0.07721829
+  0.06367379]",1,,@jakeflem @Apple Yes It seems to fix it good the first time and then as time passes it deterioates until you have to change logic board
+78,"[-0.3943628  -0.34012744 -0.05967045 ...  0.23022392 -0.01948185
+  0.33459175]",3,,RT @thehill: Justice Department cites 18th century federal law to get @Apple to unlock iPhones: http://t.co/Eth0QpAIom
+79,"[ 0.02243354  0.01825563 -0.05432492 ... -0.01752892  0.06045385
+  0.06518398]",3,,why isn't there a dreidel emoji @apple
+80,[0.01245291 0.0843244  0.02485672 ... 0.21829955 0.00540864 0.05024777],3,,Bluetooth 4.2 to Bring Direct Internet Connectivity and Increased Speed http://t.co/w0hEGLfBpi #AAPL
+81,"[-0.20112059 -0.2285939  -0.00480105 ...  0.1547422  -0.04586283
+  0.17525676]",3,,"Huge iPhone 6 sales put Apple on course for record quarter $AAPL #aapl
+
+http://t.co/2VIMb7QieI"
+82,"[-0.07825348  0.04641383 -0.07476588 ...  0.05935834  0.05036167
+  0.03818439]",3,,@GregBurke85 Just wait until @Apple Inquisition feels like @Apple Origins...
+83,"[-0.30547646 -0.02621586  0.18817133 ...  0.4141607  -0.21063952
+  0.22005676]",5,,"The customer service from @apple  is the BEST. In for years having and enjoying their products, I have ZERO complains. Thanks #apple"
+84,"[-0.01599655 -0.00499331 -0.07864127 ...  0.04486025  0.0653716
+  0.06617707]",5,,@jakeflem @Apple Yeay! Glad it all worked out for you :)
+85,"[-0.2231558  -0.13083255 -0.04431571 ...  0.23558678 -0.10896724
+  0.2004618 ]",1,,waiting a week for a DUNS number is preventing me from being able to build and release a client's iOS app. @apple why do you hate me so?
+86,"[ 0.02363769  0.07789952 -0.04015046 ...  0.02653934  0.06054854
+  0.04318011]",3,,@Apple is always the '#talk of the #town'. #CrescentGate
+87,"[-0.19589204 -0.03949483 -0.14109208 ...  0.01840689  0.17467889
+  0.27484924]",3,,@Cyrus_T_Virus @Apple good god lmao. burn daytona to the ground
+88,"[ 0.04188856  0.03579317 -0.03979604 ...  0.00145606  0.05551302
+ -0.00644674]",1,,Why did @apple send me a new computer today and it is broken... #whyamihavingtomakegeniusbarappointmentsalready
+89,"[ 0.01178022 -0.00057886 -0.07894982 ...  0.07878017  0.11454291
+  0.00213272]",1,,RT @SaifBinS3eed: This new phone sucks I can't make it stand up or on its side I can't wait for the iPhone 7 @apple fix this you dingles
+90,"[-0.24474853 -0.2761359   0.05971584 ...  0.07525246 -0.08285902
+  0.12916283]",3,,"RT @JPDesloges: APPLE - Fibonacci Technicals Levels - Intraday  Update - $AAPL #aapl 
+
+http://t.co/bDEayGr5IG"
+91,"[-0.12363977  0.18810074 -0.1285283  ...  0.13358296 -0.22999957
+ -0.01080722]",1,,Activation of AirDrop on iOS 8.1.1 kills WiFi !! What have you done @Apple ???
+92,"[ 0.01052719  0.0704456  -0.03800232 ...  0.04085923  0.04033626
+  0.01087705]",3,,@GregBurke85 @Apple I can't wait for your technology analysis firm to go public with the stock symbol $RONG
+93,"[-0.35579157 -0.30712616 -0.08582992 ...  0.16609508 -0.00949024
+  0.2469102 ]",3,,Jimmy Iovine to Apple: 'You Have a Hole in Music Right Now; Let Me Plug It' http://t.co/RwolD40zwI #AAPL
+94,"[-0.22798784 -0.2325907  -0.07546782 ...  0.14839411  0.03033075
+  0.2097622 ]",3,,CNBC TV:  Day 2: #Apple antitrust trial http://t.co/FjfBE4VQqI #aapl
+95,"[-0.3943628  -0.34012744 -0.05967045 ...  0.23022392 -0.01948185
+  0.33459175]",3,,RT @thehill: Justice Department cites 18th century federal law to get @Apple to unlock iPhones: http://t.co/Eth0QpAIom
+96,"[-0.37143016 -0.04428373  0.21755673 ...  0.60091144 -0.3242365
+  0.2118922 ]",1,,#Siri never understands me. She just said she was 'new 2 my language' and didn't get me. I speak English without major accent. #Apple @Apple
+97,"[-0.06409621  0.05424625 -0.04781523 ...  0.00434082  0.06118688
+ -0.01277515]",3,,RT @HamzeiAnalytics: BLOCK TRADE detected in #AAPL
+98,"[-0.49221897 -0.16132338  0.00079066 ...  0.35916996 -0.02682665
+  0.20630895]",1,,@Apple to Pay $24 Million for Infringing on Ancient Pager #Patents http://t.co/L1Mn38VvmV Sure...why not. #intellectualproperty #IP #pgsIP
+99,"[-0.1545195  -0.10300955 -0.00151883 ...  0.25570828 -0.17884123
+  0.27455285]",1,,@sampepper can not believe that @apple are still with you given the nature of what u have been accused of.   disgusting.
+100,"[-0.07179487 -0.13021703 -0.01800068 ...  0.11538662 -0.08394052
+  0.20588234]",1,,@apple @verizon where the fuck is my phone it shouldn't take this long.
+101,"[-0.28997928 -0.19499604  0.07804891 ...  0.20691383 -0.25366008
+  0.0316931 ]",not_relevant,,"Organizers,Twin Cities (@Apple Valley store) just released after detainment by police for peaceful protests. We Stand UP!
+
+#walmartstrikers"
+102,"[-0.3639462  -0.22625358 -0.14379631 ...  0.3321517  -0.19760965
+  0.33811375]",3,,"Early Movers: ANF, TJX, TGT, LYV, #AAPL &amp; more: These are the stocks posting the largest moves before the bell. http://t.co/Rwjm3lpzRN"
+103,"[-0.19927746 -0.22914606 -0.02108535 ...  0.22115222 -0.06251821
+  0.21917607]",3,,"#AAPL:DexCom CEO Terry Gregg Explains 50% YTD Stock Leap, Plans for 2015...http://t.co/bPYVaRmQkP"
+104,"[-0.04856053 -0.17001662 -0.11380029 ...  0.07996253  0.0390381
+ -0.05921179]",1,,THIS 16GB IS GOING TO KILL ME. IM THIS CLOSE TO TAKING A SHIT ON MY PHONE @Iphone @apple
+105,"[-0.00659872  0.01073219 -0.01624497 ... -0.02309434  0.12196614
+  0.02464176]",3,,@apple y'all should put the apple symbol into the home button on yalls next device
+106,"[ 0.01990268 -0.05223992 -0.06214163 ...  0.01973596 -0.02404888
+  0.03329185]",3,,New post on my blog: Got new cases. :) @apple @applestore @citycreek #slc #citycreek #apple #applestore #red #pr... http://t.co/S4XRRXR8uq
+107,"[-0.21980323 -0.32205436 -0.03050143 ...  0.10152886  0.02958688
+  0.08166704]",5,,Got new cases. :) @apple @applestore @citycreek #slc #citycreek #apple #applestore #red ... http://t.co/eiT3tsudcu http://t.co/U2w19NhHMU
+108,"[-0.01798022 -0.08135135 -0.00678492 ...  0.02057663  0.10594568
+  0.05692295]",1,,"@apple Hi! A few days ago I purchase 2 ringtones and non of them appear on my phone or purchased, but they appear in my credit card"
+109,"[ 0.02442012  0.03265276 -0.02507559 ...  0.09632958  0.09676579
+  0.00812732]",3,,@zoebread dps developments; welove #AAPL-E and that new #retina screen ohai
+110,"[ 1.6527882e-02  7.3212683e-02 -8.2625285e-02 ... -4.8979609e-03
+  2.9882163e-02  9.0406022e-05]",5,,@APPLE IF YOU DIDNT MAKE SUCH GOOD PRODUCTS I WOULD BOYCOTT YOU FOREVER
+111,"[ 0.00728262 -0.0313739  -0.23669854 ...  0.22385009 -0.07610278
+  0.03518779]",3,,#Win a #New @Apple @iPad Mini 3 with an @iTunes Gift Card! http://t.co/5pZl2WA9sv
+112,"[-0.05217633  0.03889593 -0.01955572 ...  0.01799592  0.09664593
+  0.00398394]",5,,@Apple runs the world..look around you
+113,"[-0.13939223 -0.1061224   0.09202974 ...  0.19471121 -0.06492309
+  0.08890025]",1,,#ios8 upgrade creates #cutandpaste problems @apple not impressed. Anyone else ha
+114,"[ 0.03094957  0.05232611 -0.03127422 ... -0.02000866  0.04686626
+  0.11110196]",1,,@apple make some better chargers fam or make them cheaper cuz rn this ain't getting the job done
+115,"[-0.23762438 -0.02385155 -0.19313657 ...  0.16905296  0.27978826
+  0.10104538]",1,,@Apple accused of deleting songs from #iPods without users' knowledge http://t.co/hujK0yawTO
+116,"[-0.01235868  0.02950592 -0.07352927 ...  0.0057615   0.019471
+ -0.00355898]",3,,@PatrickPaltrow @Apple between 4 and 8
+117,"[-0.37869495 -0.20252278  0.05392607 ...  0.18557787 -0.06733926
+  0.30248225]",1,,Wtf @apple y'all shit be cheap. http://t.co/jeOimq3HNA
+118,"[-0.3091711  -0.11357554  0.0700106  ...  0.29314956 -0.19623518
+  0.22281465]",1,,"Seriously wtf iPhone. It's been fucking up all day, now it won't let me set my alarm for my 9:30 lecture. Fkn @apple you can pay my tuition"
+119,"[-0.07589324  0.06602227 -0.05764523 ...  0.03673363  0.04929402
+  0.0177971 ]",1,,'@JamesLoera: @mariah_reagan true.. Silly iPhone' @apple get your life together
+120,"[ 0.03785932 -0.01736005 -0.11247644 ...  0.03714157  0.02061618
+  0.01501158]",1,,@Apple removed songs from iPods without telling customers http://t.co/C29jxFuNcJ
+121,"[-0.06253298  0.00074471  0.00077431 ... -0.04243436  0.09987565
+  0.09315412]",1,,I'm so done with this piece of shit phone why doesn't it ever send me notifications when taylor tweets fuck u @apple
+122,"[-0.2057988  -0.06199152  0.16409859 ...  0.28712475 -0.08458108
+  0.1259048 ]",3,,#AAPL 115.93. Dec1 #MiniFlash #Crash 6.4% in one crazy minute w/ 6.7M shares. $MS downgrade to Market Weight &amp; trim its stock from 4% to 3%
+123,"[ 3.4117829e-02 -4.9940079e-02 -5.2728344e-02 ...  2.1079788e-05
+  3.2856807e-02  5.0394088e-02]",3,,"@Apple [#Apple] #Pay FAQs: #When will Apple Pay launch in the #UK, #is Apple Pay secure .... (#Thursday, 4 #Dece... http://t.co/cur3Pu3n6H"
+124,"[-0.15978074 -0.2666878   0.0531254  ...  0.18238467  0.03504116
+  0.15481661]",3,,"Apple Pay adds issuers L&amp;N Federal Credit Union, UW Credit Union and M&amp;T Bank $AAPL #aapl
+
+http://t.co/JiyCLqNMxy"
+125,"[-0.18954997 -0.18707605 -0.13034284 ...  0.20142917  0.00056077
+  0.11697753]",5,,#Apple Is Now Worth More Than The Entire Russian Stock Market http://t.co/m3XCgggik7 via @bi_contributors #AAPL $AAPL
+126,"[-0.24387637 -0.1507417  -0.03118978 ...  0.16003992  0.00791915
+  0.19929494]",3,,RT @MariaBartiromo: Apple breaks $700B market cap http://t.co/z7JcEFcGZD @Apple @OpeningBellFBN @FoxBusiness @MBlockRhino  #JohnSpallanzani
+127,"[-0.25276282 -0.22817206 -0.01278036 ...  0.16842678 -0.02698221
+  0.1501234 ]",3,,"Apple Details An Elaborate Transit Navigation System In Patent Applications $AAPL #aapl
+
+http://t.co/O2kMFHrQlr"
+128,"[ 0.0063276  -0.05403527 -0.05496816 ...  0.05760157  0.08570192
+  0.03112802]",3,,"#iPhone6c release date, #rumours and #leaked images: #Will @Apple [#Apple] release a .... (#Thursday, 4 #December) http://t.co/BoA50OHs0b"
+129,"[-0.26980177 -0.19973606 -0.05886153 ...  0.32596105 -0.19744587
+  0.29286307]",1,,Is this happening on your #iTunes account? @Apple is secretly deleting your non-iTunes music. http://t.co/zo2aMRYg9i
+130,"[-0.32608148 -0.22566204  0.03621356 ...  0.25034142 -0.06495077
+  0.22597498]",5,,#Apple Inc. To Have An 'Explosive' Quarter: JMP Analyst #aapl http://t.co/mqDNEmhHuQ
+131,"[-0.32308796 -0.24145001 -0.0633505  ...  0.16691616  0.05716192
+  0.13195725]",3,,RT @SVNetwork: How an SVN connection led to safer conditions for @apple's workforce http://t.co/FhQk560G5y @GreenAmerica @GlobalLabor1
+132,"[-0.32312104 -0.3328679  -0.07072414 ...  0.1760436   0.03142564
+  0.2103141 ]",3,,Steve Wozniak Discusses Apple's Early Days and Working with Steve Jobs [Mac Blog] http://t.co/iPnD6LD5ur #AAPL
+133,"[-0.20780605 -0.15643373  0.0069055  ...  0.20192531 -0.05123921
+  0.16530351]",5,,"How Apple  Is Crushing Google  On Mobile Shopping  $AAPL #aapl
+
+http://t.co/TjI0eSeSTo"
+134,"[-0.115597    0.13172399 -0.12352251 ...  0.10063915  0.06324768
+  0.0306637 ]",1,,what are you talking about @Apple I back it up all the time http://t.co/6imGXmhwNJ
+135,"[-0.15693401 -0.24463941 -0.18634506 ...  0.11515232  0.0118133
+  0.21329616]",3,,"Steve #Wozniak on #Apple, the Computer Revolution, and Working With #SteveJobs - Businessweek #aapl http://t.co/DvUBLAZ9x4"
+136,"[-0.30779335 -0.3148016  -0.05131155 ...  0.26021305 -0.18375829
+  0.25092724]",3,,4-star analyst Alex Gauna from JMP Securities rated $AAPL w/a BUY. Alex has a 63% success rate http://t.co/PZn5w1YRtK #NASDAQ #stocks #AAPL
+137,"[-0.16193691 -0.14852248 -0.26734367 ...  0.09472759  0.05215767
+  0.24922357]",3,,Sketchy Rumor Claims Apple Planning New 4-Inch iPhone for 2015 http://t.co/Qa4rJnGXPz #AAPL
+138,"[ 0.03774677  0.02588553 -0.04969718 ...  0.04312069  0.01816329
+  0.00070684]",1,,"RT @JPDesloges: Apple named 10th-most disruptive idea in the past 85 years by Businessweek $AAPL #aapl
+
+http://t.co/SSgwEY3DvN"
+139,"[-0.08599091  0.09258161  0.08597811 ...  0.17874973  0.14753489
+  0.08825045]",3,,Details of the Apple Inc. iPad Mini 4 Revealed http://t.co/Qeun7yXwMP #AAPL
+140,"[-0.1633443  -0.4063155   0.01456024 ...  0.15111546 -0.13289155
+  0.06430568]",3,,"The CEO of @evernote warns wearables makers that tech needs productivity, not novelty like @apple Siri 
+
+
+
+http://t.co/HdCtT4AlV1"
+141,"[ 0.04148997  0.06606559 -0.05077654 ...  0.03372815  0.085174
+ -0.01588305]",3,,@MhDaDon @Apple next year
+142,"[-0.01048628  0.04339211 -0.04403006 ...  0.0540127   0.04186783
+  0.0585929 ]",5,,Free s/o @apple for this nice iPad
+143,"[-0.00797492  0.05588358 -0.04530643 ...  0.04237139  0.08283218
+  0.06651308]",3,,hopefully before my bday RT @Ms_BiAnCa_BiSa: @MhDaDon @Apple I believe second or third my dear
+144,"[-0.22201495 -0.22991933  0.00537011 ...  0.13026667 -0.03279881
+  0.2737532 ]",3,,CNBCTV:  #Apple top execs take stand #aapl http://t.co/IeWlOOLdER
+145,"[-0.330068   -0.14384937  0.01374444 ...  0.252747   -0.09118461
+  0.20242083]",not_relevant,,"Basketball Game Day:
+
+
+
+V Boys vs. Silver Valley 4:00 PM (@Apple Valley)
+
+
+
+V JV/ V Girls vs. Noli  6:00 PM (Mac)"
+146,"[-0.21518567 -0.22210425  0.05285536 ...  0.28405374 -0.04410339
+  0.10629037]",1,,iCloud Drive quirk: delete a folder with stuff...it reappears with same stuff.  #icloud @apple
+147,"[ 0.0157681  -0.02640004 -0.08710556 ...  0.04455262  0.06162281
+  0.04716503]",3,,"#IPhone6Plus vs. Galaxy Note 4: #Has @Apple [#Apple] Really Snatched Away the #Phablet .... (#Thursday, 4 #Decem... http://t.co/WQQDA8FDVB"
+148,"[-0.06664594 -0.3257809  -0.17062345 ...  0.07387463 -0.02043294
+  0.07690349]",5,,It took just one month for the #iPhone6Plus to become the king of #phablets... @Apple is king! #Jobspring #technews http://t.co/mAoSN8Hrrs
+149,"[-0.22454597 -0.21670973 -0.06089008 ...  0.18465689  0.12405434
+  0.18293408]",1,,@Apple deleted users' non-#iTunes music and didn't tell them about it http://t.co/UyT2ePDlTw via @Appy_Geek #apple #music
+150,"[-0.31127483 -0.21539918  0.11673063 ...  0.11711847 -0.07735595
+  0.1728534 ]",3,,"RT @JPDesloges: APPLE - Fibonacci Technicals Levels -LAST  Intraday  Update - $AAPL #aapl 
+
+http://t.co/P66pCgDlij"
+151,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+152,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+153,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+154,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+155,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+156,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+157,"[-0.20218207 -0.18424684  0.013348   ...  0.19396664 -0.16102034
+  0.09435415]",3,,"APPLE Intraday Comments - LAST Update - PREMIUM USERS  #aapl #Stockaction #trading #Stocks #MKt
+
+http://t.co/G0TeDLCB9z"
+158,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+159,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+160,"[ 0.01129751  0.00225068 -0.0355358  ...  0.05432016  0.13977772
+  0.03661004]",3,,@OneRepublic @Apple Gosh. Is that all computer things doesn't make trouble to the flight ? I am worried.
+161,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+162,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+163,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+164,"[ 0.00533676  0.01715319 -0.06076846 ...  0.01090559  0.10780068
+  0.04415805]",3,,@OneRepublic @Apple I bet you can get them at RadioShack lol
+165,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+166,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+167,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+168,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+169,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+170,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+171,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+172,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+173,"[-0.02756993  0.01406392 -0.04875676 ...  0.00460792  0.10478585
+  0.1267417 ]",1,,@OneRepublic @Apple That's what I was thinking today! After nearly two years mine only lasts for four hours now :(
+174,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+175,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+176,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+177,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+178,"[-0.39927423 -0.30655876 -0.00161178 ...  0.10960895  0.09283151
+  0.2673706 ]",3,,"In case of accident, have you downloaded our free @Apple app yet #Winnipeg http://t.co/xFhk6vBQnl"
+179,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+180,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+181,"[-0.35550067 -0.2660289  -0.11939433 ...  0.16828772  0.07790604
+  0.20963688]",1,,#AAPL:Apple deleted music from customers' iPods...http://t.co/ieyvCmYgaV
+182,"[-0.31691533 -0.20641364  0.0014685  ...  0.29348642 -0.12405889
+  0.2614244 ]",3,,"#IPhone6Plus Review: #A New Dawn For @Apple [#Apple]'s #iPhone. (#Thursday, 4 #December) http://t.co/uD0odP62od"
+183,"[ 0.0430241  -0.06417362 -0.02258345 ... -0.08623359  0.03510826
+ -0.01540243]",3,,"Did @apple delete #music from sites other than @itunes?  Good thing #throwbackPOP CD is on it, but still...#lawsuit  http://t.co/5d5HxlfrZj"
+184,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+185,"[-0.3105463  -0.26253802 -0.09064091 ...  0.1688516   0.15322863
+  0.27305177]",3,,Who's Buying All Those New #iPhones Anyway? #AAPL http://t.co/YC6ZiScTJL
+186,"[-0.22990657 -0.08405416  0.17490764 ...  0.38056615 -0.19421813
+  0.23889023]",5,,Cool piece .@apple:  http://t.co/KNHGEp26rv .@DawnC331
+187,"[-0.09511863 -0.08356073  0.05972717 ...  0.32127503  0.07327368
+  0.25287217]",3,,"#Atari, @Apple, #PowerPoint and @Starbucks are some of the @disruptive #innovation included in @BW list."
+188,"[-0.23971093 -0.20536079 -0.06137508 ...  0.13359104 -0.03501137
+  0.1162294 ]",not_relevant,,'Could Falling Oil Prices Spark A Financial Crisis?' #FB #AAPL #TSLA #GPRO #BABA #TWTR http://t.co/fCc2aRckAS
+189,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+190,"[-0.35639602 -0.2646589  -0.06057774 ...  0.17015609  0.02488326
+  0.30651394]",3,,#AAPL:Apple says plaintiffs' iPods not covered by suit...http://t.co/8V0eYzQFDQ
+191,"[ 0.02880408  0.00184971 -0.01943011 ...  0.0220177   0.11497637
+  0.00346115]",3,,We need to talk @apple
+192,"[ 0.01259081 -0.02632247 -0.08736217 ...  0.03641669  0.05689127
+  0.05617785]",3,,"#IPhone6Plus vs. Galaxy Note 4: #Has @Apple [#Apple] Really Snatched Away the #Phablet .... (#Thursday, 4 #Decem... http://t.co/9QIW9LmaSP"
+193,"[ 0.02190389  0.03219783 -0.00271091 ...  0.00033721  0.0714333
+  0.06148262]",5,,@OneRepublic @Apple aww look tht u have a lot of work guys good luck!
+194,"[-0.09604117 -0.00406218 -0.0071568  ... -0.06015131  0.1046581
+  0.09306116]",5,,@OneRepublic @Apple So great to see that you guys are recording in the air! Hopefully batteries of future will come out soon! :)
+195,"[-0.19808021 -0.2727576  -0.12733607 ...  0.12681016 -0.02067473
+  0.2488952 ]",3,,Steve Wozniak calls @Apple's legendary garage 'a bit of a myth' http://t.co/Wl2kJTcRNR
+196,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+197,"[ 0.01414411 -0.00026058 -0.05890986 ...  0.030524    0.13941522
+  0.04928444]",1,,@apple and @VerizonSupport the support I received for my iPad tonight was ridiculous going in circles with no solution smh
+198,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+199,"[-0.13855542 -0.23397547 -0.17461903 ...  0.04771486 -0.08221489
+  0.3016468 ]",1,,And they ain't open till 8 to help me so I can't even contact anyone for the shoot now @apple u can suck multiple digs. Whack
+200,"[ 0.00193343  0.06397156 -0.07338508 ... -0.01720676  0.1065501
+ -0.03937464]",3,,@OneRepublic @Apple Maximally concentrated Brent ^_^
+201,"[-0.04278141  0.03707888 -0.03626979 ...  0.08325704  0.07591863
+  0.03803913]",3,,@Kate3015 @Apple get the new sony
+202,"[-0.02007563  0.03637832 -0.06321711 ...  0.01788137  0.07296094
+  0.03090859]",3,,Torn between @SamsungMobileUS and @apple for my next phone! Secretly leaning towards the note 4 #ChangeIn2015
+203,"[-0.13116904 -0.07521913 -0.06066402 ...  0.12543303 -0.12300102
+  0.22015977]",3,,@tech_faq @peterjmsimons in the end it is  @Apple laughing all the way to the bank.
+204,"[-0.30322292 -0.11725141 -0.001414   ...  0.527598   -0.32362732
+  0.31442142]",1,,"Gotta love the autocorrect in IPhone. Nothing makes a person more illiterate than that. Fuck me,quit guessing and not let us correct. @Apple"
+205,"[-0.37341186 -0.33048445 -0.12009913 ...  0.17905742  0.03345417
+  0.2735243 ]",5,,'After School' app gets pulled by @apple ... I say good!  Cyber bullying is awful http://t.co/RQPMQ08hXp
+206,"[-0.29277998 -0.1821024   0.00681339 ...  0.18984114 -0.05695411
+  0.17717975]",3,,"Apple, Xiaomi smartphones found violating privacy laws in Taiwan $AAPL #aapl
+
+http://t.co/OJkO81vhUz"
+207,"[-0.21476115 -0.20916711 -0.00904579 ...  0.22503766 -0.06300301
+  0.20401965]",3,,"Suit Against Apple Over iPods May Lack One Thing: A Plaintiff $AAPL #aapl
+
+http://t.co/BPCTfDu5nw"
+208,"[-0.23505405 -0.22579573 -0.01812852 ...  0.20782131 -0.03630912
+  0.12281775]",5,,"After Years Of Losses Apple Is Finally Clawing Back Some Market Share Against Android $AAPL #aapl
+
+http://t.co/lBVcbSzfaQ"
+209,"[-0.04017366  0.01276198 -0.08084998 ...  0.2311929  -0.24659565
+ -0.02996678]",3,,Apple Inc. Defendants Take the Stand in Anti-trust Lawsuit http://t.co/WNd8mDLiDr #AAPL #AntiTrust
+210,"[-0.24163537 -0.06174854  0.11111733 ...  0.37591037 -0.16779326
+  0.12360322]",1,,@Apple GBP200 repair an #iPhone5 that died 4 mths out of warranty. The new phone comes with only 90 days warranty. Why?!?! #unhappycustomer
+211,"[-0.37595296 -0.25604334  0.01976698 ...  0.14882272 -0.05413591
+  0.24435847]",3,,#Apple begins hiring retail positions in Brussels ahead of first #Belgium ... - http://t.co/Rc1mvDT3Dv #AAPL http://t.co/GjjDMt4c2B
+212,"[-0.23581506 -0.12846985  0.07614718 ...  0.33708942 -0.16537555
+  0.06247345]",3,,"@apple awards @RegisCollege_MA with Distinguished School honor.  http://t.co/Ios9RVIt8P
+
+#iPads"
+213,"[-0.34461436 -0.02386382 -0.0576086  ...  0.46833974 -0.4370298
+  0.2856314 ]",1,,"Dear @Apple, I place all my browser eggs in the #Safari basket. Guess what? Safari is broken, please fix the release you pulled. #FAIL"
+214,"[-0.082582   -0.1946036   0.13293867 ...  0.10790903 -0.07147972
+  0.11143991]",3,,"RT @JPDesloges: Crystal Baller: Rebirth of the 4-inch iPhone and other insane Apple rumors $AAPL #aapl
+
+http://t.co/yvpAZQUmNt"
+215,"[-0.2901062  -0.20646489 -0.10113783 ...  0.18484393  0.08813024
+  0.13516246]",3,,@Swansonbirds @Apple @Appy_Geek Just saw this one on @YahooNews http://t.co/lkVkJ2Kkrp
+216,"[-0.2992707  -0.3140506  -0.04470686 ...  0.20286068  0.01192075
+  0.22703855]",not_relevant,,#AAPL:Google (GOOGL) Stock Downgraded Today at Bank of America/Merrill Lynch...http://t.co/5NbKdg8jk2
+217,"[-0.03704838  0.05776807 -0.05321323 ...  0.05232249  0.04649935
+  0.00459605]",3,,GVA lounge: in sight 6 Macs and 3 PCs + undetermined number of iPxs! #AAPL
+218,"[-0.3612072  -0.21935314 -0.1431781  ...  0.3436277  -0.19780456
+  0.33873338]",3,,"Early Movers: BIG, DLTR, THI, #AAPL, FIVE &amp; more: These are the stocks posting the largest moves before the bell. http://t.co/GBlMWzOcQO"
+219,"[-0.13547091 -0.19967557  0.01252544 ...  0.14891802 -0.04667062
+  0.15852205]",3,,"RT @JPDesloges: Plaintiff withdrawn in iPod antitrust lawsuit $AAPL #aapl
+
+http://t.co/ncmRj5QUqL"
+220,"[-0.10558101  0.01811368  0.13985564 ...  0.08362668 -0.02772745
+  0.03253847]",1,,Wut? @apple can I have my money back? kthx http://t.co/zVp7MUZDAM
+221,"[-0.16261558 -0.15701409 -0.13039044 ...  0.18172674 -0.07379715
+  0.21688226]",1,,took me an hour (half of it was decided in a bubble bath) that I cannot download iOS 8. I hate you @apple @EE
+222,"[-0.22778073 -0.09387761 -0.03572536 ...  0.2991815  -0.24182159
+  0.28018808]",5,,"Dude, @apple is all over the marketing for beats. They have a great marketing team at apple."
+223,"[-0.01360646  0.07790698 -0.02057966 ...  0.04424725  0.0449011
+  0.04907205]",3,,RT @cruci0btch: why don't we have harry potter emojis please work on this @Apple
+224,"[-0.06652479  0.00583591 -0.05473669 ...  0.01665074 -0.01578893
+  0.04528917]",1,,IT &amp; marketing systems @AmericanExpress cause headaches as card holders with @Apple Pay are being opted in for promotions without permission
+225,"[-0.25325727 -0.15820485  0.04872368 ...  0.18879409 -0.10999541
+  0.15661435]",1,,"#Forget @Apple [#Apple]'s #iPhone and @SamsungMobileUS #Samsung's Galaxy, the #humble flip phone is back. (#Frid... http://t.co/6CiLI9sCw6"
+226,"[ 0.00292622 -0.01516958 -0.1192206  ...  0.02234849  0.10212635
+ -0.00433794]",3,,"So, Which #PromoProduct suppliers carry brandable @Apple compliant adapters? #HeadsAreGoingToRoll"
+227,"[-0.17575794 -0.13015188  0.05108663 ...  0.11515953 -0.06318361
+  0.17716327]",3,,"@brandivatemktg @Apple - Integrity cures most evils. #MFi, in this case, will too!"
+228,"[-0.0435969  -0.01051427 -0.09535852 ...  0.0293385   0.07268899
+  0.0188983 ]",3,,RT @hsmoghul: My @apple autocorrect changes Muslim to awesome and I'm okay with that
+229,"[-0.04912705 -0.01204963 -0.00727716 ...  0.06119787  0.04101127
+  0.00538334]",1,,@briannalengy @JessicaB515 @Apple apple I'm gonna sue you for thatb
+230,"[-0.28192058 -0.13163303 -0.0108029  ...  0.3519138  -0.25336573
+  0.17350388]",3,,@ErnestSzoka super-stoked about the new Only One update! Was hoping @apple would get to it today. Ah well. Great game! Great job!
+231,"[ 0.00508241  0.00930665  0.03136218 ... -0.02350453  0.0492126
+  0.08873157]",1,,RT @danielllebaker: Paid $20 for a new 5 charger and couldn't  b more pissed about it... this is rape @apple
+232,"[-0.2825163  -0.09780961  0.03629234 ...  0.40226772 -0.25273594
+  0.19836183]",1,,Protesters in the @Apple store pretty much sums it up. Its like a gravitational pull. Shocked it took this long. Next stop? STARBUCKS!!
+233,"[ 0.00406776  0.00739644 -0.01650347 ... -0.02258115  0.07020181
+  0.0866044 ]",1,,Hey @apple how about you guys make a charger that lasts more than 2 fucking weeks
+234,"[-0.0682997   0.02042005 -0.055555   ... -0.02685931  0.09907296
+  0.04703843]",5,,got some stuff @apple store &amp; @macys for men #FashionShowMakl
+235,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+236,"[-0.22209524 -0.12060723  0.09043695 ...  0.24319161 -0.2246412
+  0.05572945]",not_relevant,,@chantalireland @Apple Slab Pie sounds amazing. Do you have a link?
+237,"[ 0.0502639   0.0717613  -0.0646172  ... -0.00653413  0.0186528
+ -0.00886544]",3,,@5SOS OMG THIS WOULD ACTUALLY BE A RLLY CUTE EMOJI @apple
+238,"[-0.0435969  -0.01051427 -0.09535852 ...  0.0293385   0.07268899
+  0.0188983 ]",3,,RT @hsmoghul: My @apple autocorrect changes Muslim to awesome and I'm okay with that
+239,"[ 0.00587767 -0.018427   -0.0376162  ...  0.0470179   0.14989384
+ -0.00587076]",3,,@OneRepublic @Apple Working hard for album 4
+240,"[-0.08734877 -0.16671528  0.08172008 ...  0.11274371 -0.10660668
+ -0.02337107]",3,,#OVER fab photo edit app @Apple http://t.co/oOMLujFr9z
+241,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+242,"[-0.00090352  0.02452955 -0.05422926 ... -0.00920992  0.05856131
+  0.01895638]",1,,My messages aren't sending...@apple tf is going on
+243,"[ 0.04547083  0.03914591 -0.01816612 ...  0.02547617  0.05910416
+  0.04692148]",3,,@swerviinnn @Apple clearly its a sign they doing u a favor
+244,"[-0.29140246 -0.25448316 -0.06006719 ...  0.06877907  0.07346817
+  0.20079619]",1,,RT @ehsonakbary: THE WORLD'S FIRST MURDER VIA FACETIME THANK YOU FOR THIS INNOVATION @Apple http://t.co/Rz8es3q3fj
+245,"[-0.2709593  -0.13180573  0.09241502 ...  0.4422687  -0.28539443
+  0.19436431]",3,,"Apple: $115 fits to 8.4% increase in earnings. Use 2014Q3 EPS=$1.42 in  #free IOS App Donkey Stocks. #AAPL
+
+https://t.co/8CBUgrEHZS"
+246,"[-0.23047115 -0.19619419  0.01709629 ...  0.13831134 -0.01849931
+  0.20530285]",1,,"Apple Could Face iPhone 6 Shortages Next Year $AAPL #aapl
+
+http://t.co/VpMOXOBFJh"
+247,"[-0.19413553 -0.12603496  0.04181115 ...  0.30254325 -0.19971916
+  0.11924352]",5,,$aapl @Apple survive the 2014 Holiday? Investors Say Yes.  http://t.co/RanqKt2Q9n'#roc #NYC #California #SanFrancisco #tech #christmas2014
+248,"[-0.2626406  -0.22078387  0.03509554 ...  0.15100038 -0.02320402
+  0.19636855]",3,,"UBS Sees More Apple iPhone Sales $AAPL #aapl
+
+http://t.co/WyawCVLvne"
+249,"[-0.32652938 -0.20414792 -0.00248964 ...  0.27430284 -0.01106617
+  0.21165465]",1,,"RT @Vito_sfam: Hey @apple, the battery of my iPhone drops down like my cock when I see a gay porn on the xvideos' main page. Fix this shit!"
+250,"[-0.322123   -0.18800615  0.09657526 ...  0.37022236 -0.18932818
+  0.25973573]",3,,"JMP Securities Thinks Apple, Inc. Is Going to $150: Time to Sell? http://t.co/0K1VgDqHqE #AAPL"
+251,"[ 0.09249745 -0.04091794 -0.06765024 ... -0.02035238  0.02143237
+  0.0281258 ]",1,,"Dear @apple , please find a solution to this, it happens with all of your cords: http://t.co/MsnP6PI2O9"
+252,"[ 0.00205431  0.02608882 -0.0816908  ...  0.02106434  0.01802352
+  0.00226736]",1,,RT @chemixcalbieber: '@WhoaBiebz: GET YOUR SHIT TOGETHER OR I'LL GUY A SAMSUNG GALAXY S5 @APPLE' http://t.co/LEHpmkxK0a
+253,"[ 0.04627643  0.0300928  -0.02134766 ... -0.04417729  0.06256156
+  0.02039634]",not_relevant,,Are you in? #trading #stocks #futures #forex #trader #es  #baba #aapl #gpro #fb #eem #eSignal                   http://t.co/JH7BMS1Kgb
+254,"[-0.04399305 -0.0230962  -0.01947119 ...  0.08581152  0.06971535
+  0.01300785]",5,,@aaronpaul_8 @YoBitch you have to do an android version...  or I'll change to @apple @iPhone
+255,"[ 0.01432129  0.02728148 -0.09254771 ... -0.07453495  0.01299981
+ -0.01299933]",1,,@Apple YOU'RE NOT EVEN THE REAL FUCKING APPLE COMPANY WHAT THE FUCK AM I SUPPOSED TO DO
+256,"[-0.36299685 -0.269977    0.01106229 ...  0.24044093 -0.08268962
+  0.18782929]",1,,T-MOBILE/IPHONE CALLING PROBLEM WORK AROUND http://t.co/9EGYFOHeXk @TMobile #TMobile @apple #Apple #iPhone6 #tech http://t.co/0NJBQBrVhZ
+257,"[-0.0018083  -0.04672964 -0.04717099 ...  0.00613212  0.03938957
+  0.01325025]",3,,Our @Apple app is coming soon! Still in production!  #HypedTunes
+258,"[-0.37926775 -0.32706344 -0.03966238 ...  0.13194264  0.01886643
+  0.26146185]",3,,RT @TypicaIStoner: RT if you think @Apple should approve this Emoji http://t.co/MI6sKtkaye
+259,"[-0.23475091 -0.19504647 -0.02255118 ...  0.22711356 -0.04773399
+  0.22696772]",1,,@NBCNewYork encourages this marxist BS that @NYPDCommAffairs =ISIS. @Apple gave order 2 not arrest marxist dupes trespass? #PantsUpDontLoot
+260,"[-0.04438132  0.02750198 -0.06246514 ...  0.02042704  0.08157724
+ -0.01507641]",5,,RT @_emilymahon: @nosheenh2oo9 @Apple this is my most favorite tweet
+261,"[ 0.08114839 -0.043544   -0.07884137 ... -0.02053309  0.05137745
+  0.00488972]",3,,Is now a good time to switch to @Apple #iCloud Drive ? http://t.co/XdSZpusYWq
+262,"[-0.11195392  0.09297802  0.01483396 ...  0.08313302  0.10767093
+  0.01638284]",3,,"The difference between @Apple and everyone else, in one photo http://t.co/RXaKDAJrwm via @qz"
+263,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+264,"[ 0.01178679 -0.02378831 -0.00492852 ...  0.00928213  0.06975875
+ -0.0223247 ]",1,,"I ordered a Osx from you, but it seems like someone is on my network or i have a cloned copy, ideas?@AppIeOfflciaI @Apple"
+265,"[-0.20388775 -0.23171838 -0.00085915 ...  0.18171746 -0.02447381
+  0.14873995]",3,,"China Grants Apple 27 Design Patents Covering iOS UI's and Icons $AAPL #aapl
+
+http://t.co/9MWZWP0s6B"
+266,"[-0.16078432 -0.20285071 -0.00761229 ...  0.15008557 -0.04427981
+  0.186635  ]",1,,"Why can't Apple meet demand for the iPhone 6? $AAPL #aapl
+
+http://t.co/ipPd0j3n6R"
+267,"[ 0.00731666  0.01590869 -0.05505536 ...  0.05767842  0.05865085
+  0.03360633]",3,,@YogscastSjin WOW!! The yogscast is now even sponsored by @Apple XD
+268,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",1,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+269,"[-0.19521376 -0.08496317  0.04457723 ...  0.2108864  -0.03575923
+  0.1373674 ]",1,,RT @galengering: Hey @apple-I know my iCloud storage is full. Thank you for reminding 82 times a day!
+270,"[ 0.03700694  0.03547511 -0.02363813 ...  0.04573509  0.055491
+  0.0600754 ]",3,,@sammcmanusss @Apple idk it just happend though
+271,"[-0.38563308 -0.25509876  0.09037436 ...  0.20598286 -0.00280783
+  0.3201952 ]",5,,@Apple store #nyc I am honored to be here. #travel http://t.co/JnbCd79z1b
+272,"[-0.22015366 -0.16358306 -0.02721884 ...  0.11639006 -0.11014943
+  0.13126275]",3,,"Foreign Currency Exchange May Be A Headwind For Apple $AAPL #aapl
+
+http://t.co/7GiTFxqS5j"
+273,"[-0.0734779  -0.02317875 -0.21709771 ... -0.04408668 -0.06162909
+ -0.02217618]",1,,Yall some hoes BRUH @apple http://t.co/BBVtlFzzpK
+274,"[-0.25641322 -0.23018785 -0.12206544 ...  0.19565631  0.0002732
+  0.25447616]",1,,Here's the @Apple #SmartWatch. I say @HP beats it easily. It's like an elitist toy versus a real machine :-) http://t.co/LVa3EpXeAv
+275,"[ 0.04391665 -0.0065459  -0.06218943 ...  0.01975947  0.07551566
+  0.07777534]",5,,Loving my @apple #iPhone6Plus even though I've hyperextended my thumb reaching for the top Apps #thestruggleisreal
+276,"[-0.01907717  0.00177847 -0.06433201 ...  0.04490628  0.08517618
+  0.03709105]",3,,@Macys Why do I have to sign when making an @Apple Pay transaction?
+277,"[-0.09129202 -0.11490657  0.07657123 ...  0.15783156 -0.02613866
+  0.1214259 ]",1,,@ProfessorF @Apple @HP Best smartwatch is still the Pebble.
+278,"[-0.24996082 -0.2058315  -0.24653906 ...  0.12838392 -0.01500408
+  0.20718747]",5,,"#Music is always part of my life, and everyday @Apple is also as important as music to me http://t.co/oAeF2IIvrm"
+279,"[-0.1777161  -0.17171124  0.10093965 ...  0.3183971   0.03691472
+  0.17499202]",1,,Thanks to @Etsy @amazon @BestBuy &amp; @apple my postman will be working overtime.
+280,"[-0.16517594 -0.14136213  0.05083216 ...  0.1572677   0.05704186
+  0.1874347 ]",1,,@Apple technology..is becoming very undesirable. These glitches are constantly stopping my from working
+281,"[-0.2286445  -0.03720728  0.1649304  ...  0.3272966  -0.15453935
+  0.16603783]",not_relevant,,@danjo_1 @Apple @HP @LGElectronics I've seen that one. Looks nice too.
+282,"[-0.07500634 -0.06784009  0.02723185 ...  0.36701205 -0.20788485
+  0.202824  ]",3,,@kapelianis @Apple @HP My portfolio is actually doing quite well post-election. October was a bad month.
+283,"[-0.16940627 -0.05284036  0.07005654 ...  0.25994977  0.0705393
+  0.14857514]",1,,@apple's calendar app has judiciously listed virtually every holiday imaginable - yet neglects my birthday.
+284,"[-0.27084824 -0.26954958 -0.03607496 ...  0.14672698 -0.00990277
+  0.28180957]",3,,Lol tryna figure out why this file say its from 1984? @tim_cook @apple @StephanieKMBC http://t.co/oxgYTgW3P7
+285,"[-0.0447335  -0.00946422 -0.09421967 ...  0.03180518  0.08377012
+ -0.00740785]",3,,"#Robots #fabricando #iPhone, #iPad Pro, @Apple [#Apple] Watch, Apple TV y el #.... (#Sunday, 7 #December) http://t.co/Ba8eb8r60N"
+286,"[-0.32858643 -0.1637448   0.03825612 ...  0.19987978 -0.19780052
+  0.169065  ]",3,,"Myths vs. Reality-Full Time #Trading http://t.co/JH7BMS1Kgb #stocks
+
+#futures #forex #trader #es #aapl #gpro #eSignal http://t.co/bFnkHl3EYx"
+287,"[-0.30889812 -0.3793193   0.00438434 ...  0.17332178 -0.05141354
+  0.3564051 ]",1,,#AAPL:Apple Pay faces challenge as two drug stores reject it...http://t.co/iqdLBVYEam
+288,"[ 0.03519421  0.02699289 -0.13187575 ...  0.00459307  0.03664584
+ -0.00687447]",1,,MY COMPUTER IS NOT TURNING BACK ON HELP @APPLE
+289,"[-0.30401853 -0.15111782  0.07719316 ...  0.32062873 -0.19405425
+  0.11960809]",1,,The most #innovative company (#Apple) doesn't have an official #Twitter acct. for the company http://t.co/kcf5liWWF4. @apple @AppIeOfflciaI
+290,"[-0.2611053  -0.26176158 -0.0304504  ...  0.1911249  -0.06525315
+  0.25002924]",3,,#AAPL:Corporate Earnings to Contract; Short Apple: Best of Kass...http://t.co/59VMgqR0tH
+291,"[-0.06805334 -0.13941304 -0.11529183 ...  0.13658    -0.05809059
+  0.13573584]",1,,"Congratulations to @Apple for firmly reasserting itself at the top of my most-hated corporations list today.
+
+#justnotabumfluffbohemian"
+292,"[-0.26923847 -0.10700151  0.03950934 ...  0.348507   -0.22670883
+  0.20029698]",1,,really pissed at @apple . trying to edit video and can't convert files due to not having the mpeg 2 component anymore because of os update.
+293,"[ 0.04955948  0.02123932 -0.01282478 ...  0.03841763  0.04541324
+  0.03849781]",1,,@apple fuck yo shit
+294,"[-0.21194339 -0.1708572  -0.13435392 ...  0.19763571 -0.07178469
+  0.20034592]",1,,@apple is laughing its pants off with the school programs here in Australia. They even manage to wringe money out of the poorest of people
+295,"[-0.06441257  0.02776561 -0.08510572 ...  0.05315733  0.06419285
+  0.05402454]",3,,@edwardkb haha iPhone #autocorrectfail -- @apple not @Applebees !!
+296,"[-0.26462477 -0.18382959 -0.0611557  ...  0.38560465 -0.18560195
+  0.22483253]",3,,RT @fakebananas: Thanks @Apple for the preview of your smartwatch. #fitnesstracker #quantifiedself #IoT http://t.co/WAGN08SDNc
+297,"[-0.03009685  0.02055144 -0.06242732 ... -0.03722735  0.12216812
+  0.09604695]",3,,RT @yungjoseg: Poor dudes out here gettin slandered because he wants to argue against @apple
+298,"[-0.34126016 -0.23214298 -0.06010108 ...  0.12136496  0.02443027
+  0.23673877]",3,,Why @Apple Should Ditch TomTom and License Map Data from @HERE http://t.co/mBGyrvP0lB
+299,"[-0.06145019  0.0348363  -0.18139121 ...  0.17665726 -0.06028016
+ -0.053895  ]",1,,My phone is so shitty even the time freezes @Apple http://t.co/7Mh7RMlqFX
+300,"[ 0.03464989  0.02638674 -0.02329405 ...  0.04839556  0.09818819
+  0.03894692]",5,,@stevewoz @apple apple stock has doubled since Steve jobs death and increased 15x since his return in the late 90s
+301,"[-0.3122955  -0.20072521  0.05351789 ...  0.22263065 -0.08757585
+  0.20634995]",1,,"#18 #million iPHONE USERS HAVE NEVER BONKED to @Apple [#Apple]Pay. (#Monday, 8 #December) http://t.co/MVYxufAhD9"
+302,"[-0.22617047 -0.23074818 -0.00799074 ...  0.17312875 -0.05086577
+  0.16765624]",1,,"Apple Doesn't Need No Stinking Streaming Media Stick! $AAPL #aapl
+
+http://t.co/HmXdZ9fzlC"
+303,"[-0.2763555  -0.29577962 -0.06791268 ...  0.14950748  0.00497494
+  0.20620987]",3,,"#AAPL:UPDATE 1-Taiwan Nov export growth tops expectations, despite China wea...http://t.co/DwZ3UnxqPT"
+304,"[-0.01560656 -0.01173693 -0.03886919 ...  0.08819709  0.04936669
+  0.10206755]",5,,"Hope @apple store Arndale could pass on to the staff member staff thats visually impaired she is an inspiration, Great work #InAwe #WellDone"
+305,"[-0.01572101  0.00161522 -0.00360271 ...  0.02527078  0.07093996
+  0.07000963]",1,,@apple well done you #cunts my printer don't work since your #fucking #Yosemite #UPDATE #Pricks!
+306,"[-0.07110316  0.0649679  -0.08592291 ...  0.06896805  0.09707832
+ -0.04421346]",3,,.@apple Is the iPhone 6 y3k compliant?
+307,"[-0.3709071  -0.20072299  0.04013112 ...  0.13191412  0.01275098
+  0.22975902]",3,,The power of @Apple 's strong branding and store design in one photo http://t.co/CJObpVZeZk via @qz http://t.co/hD6P7hJhW8
+308,"[ 0.0826321   0.02443254 -0.10289515 ...  0.0602071   0.07621809
+  0.03355034]",5,,@apple thank you http://t.co/wmSinAAuQf
+309,"[ 0.00973051  0.04443515 -0.02288613 ...  0.02086804  0.06576987
+ -0.0206139 ]",not_relevant,,BLOCK TRADE detected in #AAPL
+310,"[-0.1814783  -0.12300918  0.06059513 ...  0.2564474  -0.03739571
+  0.17718622]",1,,Hey @apple my iPod touch is acting all wonky and I've done the factory settings and reinstalled stuff and nothing. Any other ideas?
+311,"[-0.3225298  -0.27826265 -0.11617791 ...  0.25851327 -0.07372741
+  0.2961718 ]",1,,"Happy Monday! My camera on my fancy @Apple #iPhone6Plus suddenly stopped working this weekend, so instead - I meme. http://t.co/XdySgcxUuv"
+312,"[-0.02112082  0.04784174 -0.01615388 ...  0.05949567  0.08884462
+  0.07079367]",3,,"@5wa Haha, @Apple techs seeing the #CondoSeniors cookery should jump at opportunity! ;-)"
+313,"[-0.33683932 -0.26139122 -0.11167701 ...  0.1656457   0.03992752
+  0.27338937]",5,,Apple Inc.'s (AAPL) Momentum Seems Nearly Unstoppable http://t.co/54tGY7Qezx #AAPL
+314,"[-0.3252278  -0.21964048 -0.07591002 ...  0.14077176  0.07763798
+  0.19550891]",3,,@scarlettsinatra @LunchGod @Naivana_ @apple simple solution http://t.co/TWSWCaXC3j
+315,"[ 0.0356202  -0.00125509 -0.0393994  ...  0.01702571  0.04271858
+  0.02802534]",3,,Interesting apps pop up when you search for 'beta' on the @apple App Store
+316,"[-0.21655323 -0.20188586  0.0228675  ...  0.24153289 -0.03426206
+  0.09155896]",3,,"Massive mobile tech companies like @apple @xiaomi are excited by wearables and investing 40 million into @misfit
+
+
+
+http://t.co/PNShe0GZ3y"
+317,"[-0.2600254  -0.2782854  -0.00990639 ...  0.12223462 -0.02415085
+  0.2895638 ]",3,,#AAPL:Jim Cramer: Why This Is Not the Tech Bubble We Saw in 2000...http://t.co/Yag6HUnBTa
+318,"[-0.21087454 -0.2440201  -0.03552315 ...  0.15414144 -0.04239779
+  0.09795963]",not_relevant,,Time is running out! #trading #stocks #futures #forex #trader #spy #qqq #baba #aapl #gpro #fb #eem http://t.co/JH7BMS1Kgb
+319,"[-0.34117788 -0.25726795 -0.1375499  ...  0.12021948 -0.06787308
+  0.19162048]",5,,APPLE'S TIM COOKE HITS THE NAIL ON THE HEAD http://t.co/96c0F0rfgX @tim_cook @apple #Apple #technews http://t.co/5cbhUAQbrL
+320,"[-0.09556219 -0.1482862  -0.14726754 ...  0.05743523  0.0382137
+  0.21925507]",3,,"Can we see the evidence, please? http://t.co/RCPyCRIfky #FactCheckThis RT @apple @snopes @moronwatch"
+321,"[-0.16571508 -0.27246997  0.05552446 ...  0.14130741 -0.03814308
+  0.12007227]",3,,Few spots left @WWCLondon's 10 Dec event @Apple http://t.co/LbKkp81uKE w/ @coderinheels @Dr_Black @WATC_girl @isabelladegen @bridget_connell
+322,"[-0.33105853 -0.2540637   0.02470371 ...  0.19521242 -0.0424794
+  0.23857188]",5,,"The 10 biggest differences between #Mac and #PC.  Yep, I'll stick with my Mac! #apple http://t.co/obykvsjfJY @apple @LisaEadicicco"
+323,"[ 0.00839532  0.08314448 -0.05023367 ...  0.01322124  0.03449409
+ -0.00263803]",5,,#AAPL providing another great entry point &lt; $115
+324,"[-0.23353244  0.00080475  0.13309689 ...  0.3703525  -0.25876477
+  0.16786833]",1,,@AzakFeverAFC phone is awful. Why is there a green line? Need a new one. @Apple sort it out. Not on. AF
+325,"[-0.16699754 -0.2330425  -0.09348039 ...  0.15615557  0.03249432
+  0.13484742]",3,,"Apple Stock in Upward Trend After 'Explosive' Holiday Quarter, Apple Watch Release in 2015 -  http://t.co/P5XPaYCE7t #AAPL"
+326,"[-0.00217126  0.01746341 -0.0432178  ...  0.03860857  0.03977723
+ -0.02195749]",1,,.@Apple there is still not a suicide note template on your most recent pages update how much longer do I have to wait
+327,"[-0.00747607  0.04201031 -0.03776066 ...  0.03793545  0.09659019
+  0.04714566]",1,,thanks @apple for making life complicated
+328,"[-0.12947999 -0.26766363 -0.14139964 ...  0.20882854 -0.05272306
+  0.17786914]",3,,"#mkt Final #AAPL #PutCallRatios for Monday, December 8, 2014:  http://t.co/PMJ7YF8RtB"
+329,"[-0.2326809   0.00302489  0.07108688 ...  0.4326397  -0.23608333
+  0.19579744]",1,,"My MacBook Pro is now as annoying as my ASUS Windows 8 computer. Freezing, laggy, etc.  So much for @apple's excellence."
+330,"[ 0.02925806 -0.00393561 -0.06179469 ...  0.00337415  0.03448268
+  0.11654134]",1,,Why can't we FaceTime more than one person at a time @apple ? I need answers dammit until then oovoo winning.
+331,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+332,"[-0.25808367 -0.24324363  0.01241589 ...  0.12725943  0.08088589
+  0.386378  ]",3,,"@TeamCavuto @Apple Neil, the problem is NOT the POLICE but the GOVT as Neal Bootz points out so well: http://t.co/UNaoaL3cOP"
+333,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+334,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",1,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+335,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+336,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",1,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+337,"[-0.28109893 -0.25216234 -0.07265899 ...  0.15419771 -0.02859087
+  0.19490305]",3,,"#AAPL:Apple trial continues, without a plaintiff for now...http://t.co/DjDkC4HkPZ"
+338,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+339,"[-0.29002696 -0.07322898  0.1285217  ...  0.2950119  -0.20885767
+  0.26719725]",1,,RT @pambesteder: @TeamCavuto @Apple At this point it's not anger. It's simply a manifestation of stupid.
+340,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+341,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+342,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+343,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+344,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",5,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+345,"[-0.07997586  0.00733556  0.01614776 ...  0.0066695   0.05852662
+ -0.00147893]",1,,"@TeamCavuto @Rowdman53 @Apple It's democrat funded OWS &amp;paid protesters distraction from democrat failures ACA, Amnesty,taxes,debt,economy"
+346,"[-0.14810501 -0.23797134 -0.08877905 ...  0.2437669  -0.18602528
+  0.2256498 ]",3,,"RT @TeamCavuto: Protesters stage #DieIn protests in @Apple store in NYC... Is it me, or is this anger misplaced? RETWEET if you agree."
+347,"[-0.41819346 -0.12992196  0.0081022  ...  0.30647793 -0.11603785
+  0.25889027]",3,,"@Apple [#Apple] #(AAPL) Plans to #Launch #iPhone6 Mini Version in #2015. (#Monday, 8 #December) http://t.co/s79PqzLbsg"
+348,"[-0.00168965  0.01469255 -0.02666444 ... -0.02236769  0.06546532
+  0.03925994]",1,,@Apple can you please make a charger that actually last
+349,"[-0.33347988 -0.06848186 -0.01482406 ...  0.49873525 -0.39454564
+  0.26088715]",3,,I applied for @apple's 'head of social media' opening. I have a leg up because of my twitter skillz. I am like the mark twain of twitter.
+350,"[-0.23436035 -0.1515237   0.11575512 ...  0.20659865 -0.13549413
+  0.19863422]",1,,@Apple my phone just died at 5% and I feel betrayed.
+351,"[-0.09853072 -0.15477864 -0.06812833 ...  0.09613931 -0.08110944
+  0.27008897]",3,,@Mzhoov @BionicBombshell They got a nigga in a turban. Why cant we have a sista in a headscarf @Apple?!
+352,"[-0.04716042 -0.01420888 -0.0266877  ...  0.10028343  0.01546775
+  0.02416055]",3,,@LydiasLyfe @BionicBombshell @Apple Apple better get to working
+353,"[-0.08311531 -0.22989263 -0.15131451 ...  0.08164659 -0.00648808
+  0.21431816]",3,,"Last plaintiff in iTunes antitrust lawsuit disqualified, but the show must ... - http://t.co/RzMEx5JOM5 #AAPL #Apple #MariannaRosen"
+354,"[-0.0491262   0.00436036 -0.01882444 ...  0.04100751  0.07871333
+  0.05385989]",1,,Congrats @apple on making an iPhone recording DRM protected so we can't play it anywhere we want #fail
+355,"[ 0.0062801   0.03263567 -0.0286558  ...  0.03825662  0.05145441
+  0.0424043 ]",1,,Danger* but ok @Apple wanna fuck with me
+356,"[ 0.0037334   0.01646038 -0.0632149  ...  0.03640019  0.06629254
+  0.06971507]",1,,"RT @Jus_Trippy: i need new emojis , preferably some brown people an shxt like that @apple"
+357,[0.04521504 0.01658517 0.00177573 ... 0.08892297 0.11181313 0.01637468],1,,@apple#ipad #irig  For the price to connect my guitar I could buy a real amp loud enough to perform! #ripoff
+358,"[-0.44570866 -0.08620288  0.09879352 ...  0.5339762  -0.21422322
+  0.21340773]",3,,MFN is not just about international trade. It's the key issue in @apple's #ebook appellate case says @rparloff. http://t.co/nrhCcuPfk6
+359,"[-0.15731312 -0.19370072  0.09057631 ...  0.15210043 -0.26358825
+  0.09880845]",3,,"APPLE Intraday Comments - Pre-Opening - PREMIUM USERS  #aapl #Stockaction #trading #Stocks #MKt
+
+http://t.co/G0TeDLCB9z"
+360,"[-0.14366779 -0.2360536  -0.12557541 ...  0.10643937 -0.05291687
+  0.0974088 ]",3,,Why @Apple Won't Be A Trillion Dollar Company According To Billionaire #VC @JimBreyer http://t.co/3qakpK0KJu  @businessinsider @applenws
+361,"[-0.16351798 -0.28120643 -0.19979116 ...  0.15437363  0.05147697
+  0.25151318]",3,,"RT @SFBJNews: Here are @SFBJEditor 5 things to know today, including who is hoarding the @Apple #iPhone6 http://t.co/lwacRDp3vU"
+362,"[-0.05290783  0.12915336 -0.1863675  ...  0.2535404  -0.2931706
+ -0.08171722]",3,,"The Best #iPhone Apps Of The Year, According To @Apple  http://t.co/fp7Dlo85iP"
+363,"[-0.3117375  -0.22395918 -0.15114667 ...  0.13895082  0.04898644
+  0.17244686]",3,,"Apple Opening Advanced R&amp;D Center in Yokohama, Japan http://t.co/RGTBpPywqJ #AAPL"
+364,"[-0.24566928 -0.25095147  0.01627477 ...  0.08616275 -0.10906305
+  0.15341666]",3,,"APPLE - Fibonacci Technicals Levels - Intraday  Update - $AAPL #aapl 
+
+http://t.co/b6PEb5edKq"
+365,"[-0.24469097 -0.21711762 -0.19913323 ...  0.0821844  -0.05513179
+  0.27266583]",3,,"Apple Adds New Apple TV Channels for UFC, The Scene, Fusion, and Dailymotion http://t.co/6ch8upBX49 #AAPL"
+366,"[ 0.00254392  0.07731159 -0.03721751 ... -0.01799766  0.105627
+ -0.07285394]",1,,.@apple you suck
+367,"[-0.27234283 -0.09668167  0.05023668 ...  0.24246606 -0.20177694
+  0.17796913]",1,,RT @bchmura12: .@apple you suck
+368,"[-0.3557351  -0.20264009  0.03449689 ...  0.3519541  -0.15777192
+  0.24883679]",3,,REPORT: #Apple Wants Fashion And Luxury Experts To Help Sell The #AppleWatch #aapl http://t.co/I1UpTiCF0i http://t.co/rorXfmpPSk
+369,"[-0.3313907  -0.27267966 -0.11468802 ...  0.24162745 -0.05750855
+  0.29181033]",1,,"Happy Monday! My camera on my fancy @Apple #iPhone6Plus suddenly stopped working this weekend, so instead - I meme. http://t.co/lp9KPujmPg"
+370,"[-0.04447263 -0.02910666 -0.04771097 ...  0.05931257  0.1013333
+  0.02104952]",1,,No @Apple TV update for me yet
+371,"[-0.18591292 -0.3214114  -0.20275697 ...  0.14416969 -0.17536621
+  0.09598531]",3,,Apple again orders app developer to remove a useful and popular feature http://t.co/aJ2obsNjd1 via @Appy_Geek @apple dictatorship!
+372,"[-0.3777713  -0.11884458  0.11027119 ...  0.42706108 -0.3292432
+  0.27388868]",3,,"RT @OneRepublic: Studio at 45,000 ft.  One outlet,  4 computers.  @Apple we need the batteries of the future NoW!!!! http://t.co/astp9x6KET"
+373,"[-0.28233156 -0.29984924 -0.10894489 ...  0.13692242  0.05477736
+  0.23339377]",5,,"Apple Inc., GoPro Inc Products Are Go-To Gifts: Analyst http://t.co/I5fd3iaycs #AAPL"
+374,"[-0.22447182 -0.2792745  -0.09784758 ...  0.13912304  0.03493353
+  0.26575354]",3,,Confirmed: Bose speakers returning to #Apple Stores after removal earlier this year - http://t.co/yXPyde3TvQ #AAPL #BeatsElectronics
+375,"[-0.23001869 -0.24490175  0.00724234 ...  0.07322252 -0.10526024
+  0.14662923]",3,,"APPLE - Fibonacci Technicals Levels - Intraday  Update - $AAPL #aapl 
+
+http://t.co/rsTP9XEA4L"
+376,"[-0.3383086  -0.11886858  0.11301143 ...  0.457245   -0.22732887
+  0.20880719]",5,,"Five Apple predictions for 2015. I disagree absolutely, apple will have an incredible holiday season! #aapl 130$ http://t.co/GYJAJevWoz"
+377,"[-0.02929089 -0.05103452 -0.07994312 ...  0.08071879  0.1283258
+  0.00638224]",1,,"Dear Santa, All I want for Christmas is for @Apple to send my iPhone (ordered 9/29)."
+378,"[-0.2911063  -0.09976557  0.03083478 ...  0.13929684 -0.05887202
+  0.18141173]",1,,"YES.  RT @garrett_wollman: No, @Apple, don't 'remind me tomorrow'. Just f'ing TELL ME what the updates you want to install actually ARE."
+379,"[-0.3268211  -0.25645706 -0.12025955 ...  0.27468333 -0.08603302
+  0.29003423]",1,,"Happy Monday! My camera on my fancy @Apple #iPhone6Plus suddenly stopped working this weekend, so instead - I meme. http://t.co/9IbDKwrdhZ"
+380,"[ 0.05431516 -0.02691738 -0.09581569 ...  0.0412052   0.02500814
+  0.02613544]",3,,"RT @CNET: @Apple pioneer Bill Fernandez on @Google Glass, Oculus Rift and the look of the future http://t.co/YSvkfs1h6a #innovation"
+381,"[-0.01927215  0.01657581 -0.17259154 ...  0.12203432 -0.04134054
+ -0.05857753]",3,,Here are the top apps for the iPhone according to @apple http://t.co/6gzv72TrNY #technologya
+382,"[ 0.02066124  0.0456473  -0.00996724 ...  0.07676502  0.07249168
+ -0.01950934]",3,,@afrobugeisha @Apple watch it!!!!!
+383,"[-0.00521338  0.09804255 -0.04527409 ...  0.08455317  0.06798796
+  0.01633099]",3,,@iamrayuko @Apple who're you talking to
+384,"[ 0.01085583  0.07559383 -0.03221366 ...  0.00085985  0.04946807
+  0.06193905]",1,,So @Apple just gave me a huge middle finger to the face
+385,"[-0.5177781  -0.17881614  0.15932938 ...  0.41307765 -0.2616272
+  0.44134048]",3,,Apple Is Warming Up To Social Media: Apple is hiring a social media guru in L.A. Will @Apple finally tweet?Her... http://t.co/HeyorYYCOY
+386,"[-0.46210685 -0.1951538   0.16086242 ...  0.3647341  -0.22712685
+  0.36416653]",3,,Apple Is Warming Up To Social Media: Apple is hiring a social media guru in L.A. Will @Apple finally tweet?Her... http://t.co/2hCmIxoO47
+387,"[-0.4968942  -0.227311    0.15266724 ...  0.34874055 -0.19817308
+  0.4166785 ]",3,,Apple Is Warming Up To Social Media: Apple is hiring a social media guru in L.A. Will @Apple finally tweet?Her... http://t.co/N5H03hsNst
+388,"[-0.35566252 -0.08058916  0.05662362 ...  0.21354374  0.01424904
+  0.17856662]",3,,(Via FC) Apple Is Warming Up To Social Media - Apple is hiring a social media guru in L.A. Will @Apple finally twe... http://t.co/IpqoWRy2EM

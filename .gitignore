@@ -131,3 +131,4 @@ dmypy.json
 
 **/*Zone.Identifier
 data/sentiment/sentiment140/
+temp_bertweet_experiment_full_combined.sav
